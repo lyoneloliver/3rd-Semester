@@ -1,3 +1,9 @@
 [submodule "Web-Programming/quiz1"]
 	path = Web-Programming/quiz1
 	url = https://github.com/lyoneloliver/quiz1
+[submodule "Web-Programming/midterm"]
+	path = Web-Programming/midterm
+	url = https://github.com/lyoneloliver/midterm-pweb.git
+[submodule "Artificial Intelligence Concepts/Artificial Intelligence Concepts/Midterm"]
+	path = Artificial Intelligence Concepts/Artificial Intelligence Concepts/Midterm
+	url = https://github.com/lyoneloliver/Wordle-Solver.git
