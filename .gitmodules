@@ -7,3 +7,6 @@
 [submodule "Artificial Intelligence Concepts/Artificial Intelligence Concepts/Midterm"]
 	path = Artificial Intelligence Concepts/Artificial Intelligence Concepts/Midterm
 	url = https://github.com/lyoneloliver/Wordle-Solver.git
+[submodule "Artificial Intelligence Concepts/Midterm"]
+	path = Artificial Intelligence Concepts/Midterm
+	url = https://github.com/lyoneloliver/Wordle-Solver.git
